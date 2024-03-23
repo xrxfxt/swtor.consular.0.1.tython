@@ -1,1 +1,1 @@
-{% include gallery.html folder='/album' %}
+{% include gallery.html folder='/img' %}
